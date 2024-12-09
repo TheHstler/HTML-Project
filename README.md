@@ -1,6 +1,6 @@
 Front-end Projects
 
-Welcome to my collection of Frontend Projects. Below, you’ll find all the projects I’ve worked on as part of my learning journey, inspired by the Frontend Development Roadmap from Roadmap.sh**. Each project is linked to its GitHub repository or live version, with a short description and technologies used.
+Welcome to my collection of Frontend Projects. Below, you’ll find all the projects I’ve worked on as part of my learning journey, inspired by the Frontend Development Roadmap from Roadmap.sh. Each project is linked to its GitHub repository or live version, with a short description and technologies used.
 
 ---
 
