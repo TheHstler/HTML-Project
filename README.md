@@ -6,6 +6,7 @@ Welcome to my collection of Frontend Projects. Below, you’ll find all the proj
 
  🚀 Projects
 
+[Simple CV Page](https://roadmap.sh/projects/single-page-cv)
 [Basic HTML Website](https://roadmap.sh/projects/basic-html-website),[Personal Portfolio](https://roadmap.sh/projects/basic-html-website),
 Changelog Component, Testimonial Cards,
 Datepicker UI, Accessible Form UI,
